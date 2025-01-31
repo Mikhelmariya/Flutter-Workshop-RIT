@@ -1,17 +1,37 @@
-# flutter basics
+# Flutter Workshop - RIT
 
-A new Flutter project.
+Welcome to the Flutter Workshop - RIT repository! 🚀
 
-## Getting Started
+This repository contains all the code and resources covered in the 2-day Flutter Workshop, including:
 
-This project is a starting point for a Flutter application.
+Flutter Widgets (Stateless & Stateful)
 
-A few resources to get you started if this is your first Flutter project:
+Navigation (Named Routes, Push & Pop)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Adding Images 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# Flutter-Workshop-RIT
+Custom Fonts
+
+UI Components & Layouts
+
+## 🔧 Getting Started
+
+### Clone the repository
+git clone https://github.com/Mikhelmariya/Flutter-Workshop-RIT.git
+
+### Navigate into the project directory
+cd Flutter-Workshop-RIT
+
+### Install dependencies
+flutter pub get
+
+### Run the app
+flutter run
+
+# Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/mikhel-v-kuttickal-24b760218/)
+- [Medium](https://medium.com/@mikhela65)
+
+
+
